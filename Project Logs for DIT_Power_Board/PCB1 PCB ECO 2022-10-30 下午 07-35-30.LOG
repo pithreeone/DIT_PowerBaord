@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V5a Pin=U4-1
+Added Pin To Net: NetName=V5b Pin=U4-1
+Added Room: Name=Power_board_1
+Added Room: Name=Power_board_2

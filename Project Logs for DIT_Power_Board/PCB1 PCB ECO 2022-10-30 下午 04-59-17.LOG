@@ -1,0 +1,54 @@
+Added Component: Designator=MotorShield1(Pololu G218V17)
+Added Component: Designator=MotorShield2(Pololu G218V17)
+Added Component: Designator=MotorShield3(Pololu G218V17)
+Added Component: Designator=MotorShield4(Pololu G218V17)
+Added Pin To Net: NetName=PGND1 Pin=MotorShield1-1
+Added Pin To Net: NetName=NetMotorShield1_2 Pin=MotorShield1-2
+Added Pin To Net: NetName=NetMotorShield1_3 Pin=MotorShield1-3
+Added Pin To Net: NetName=PGND1 Pin=MotorShield1-9
+Added Pin To Net: NetName=PGND1 Pin=MotorShield1-10
+Added Pin To Net: NetName=NetMotorShield1_11 Pin=MotorShield1-11
+Added Pin To Net: NetName=NetMotorShield1_11 Pin=MotorShield1-12
+Added Pin To Net: NetName=NetMotorShield1_13 Pin=MotorShield1-13
+Added Pin To Net: NetName=NetMotorShield1_13 Pin=MotorShield1-14
+Added Pin To Net: NetName=VM Pin=MotorShield1-15
+Added Pin To Net: NetName=VM Pin=MotorShield1-16
+Added Pin To Net: NetName=PGND1 Pin=MotorShield2-1
+Added Pin To Net: NetName=NetMotorShield2_2 Pin=MotorShield2-2
+Added Pin To Net: NetName=NetMotorShield2_3 Pin=MotorShield2-3
+Added Pin To Net: NetName=PGND1 Pin=MotorShield2-9
+Added Pin To Net: NetName=PGND1 Pin=MotorShield2-10
+Added Pin To Net: NetName=NetMotorShield2_11 Pin=MotorShield2-11
+Added Pin To Net: NetName=NetMotorShield2_11 Pin=MotorShield2-12
+Added Pin To Net: NetName=NetMotorShield2_13 Pin=MotorShield2-13
+Added Pin To Net: NetName=NetMotorShield2_13 Pin=MotorShield2-14
+Added Pin To Net: NetName=VM Pin=MotorShield2-15
+Added Pin To Net: NetName=VM Pin=MotorShield2-16
+Added Pin To Net: NetName=PGND1 Pin=MotorShield3-1
+Added Pin To Net: NetName=NetMotorShield3_2 Pin=MotorShield3-2
+Added Pin To Net: NetName=NetMotorShield3_3 Pin=MotorShield3-3
+Added Pin To Net: NetName=PGND1 Pin=MotorShield3-9
+Added Pin To Net: NetName=PGND1 Pin=MotorShield3-10
+Added Pin To Net: NetName=NetMotorShield3_11 Pin=MotorShield3-11
+Added Pin To Net: NetName=NetMotorShield3_11 Pin=MotorShield3-12
+Added Pin To Net: NetName=NetMotorShield3_13 Pin=MotorShield3-13
+Added Pin To Net: NetName=NetMotorShield3_13 Pin=MotorShield3-14
+Added Pin To Net: NetName=VM Pin=MotorShield3-15
+Added Pin To Net: NetName=VM Pin=MotorShield3-16
+Added Pin To Net: NetName=PGND1 Pin=MotorShield4-1
+Added Pin To Net: NetName=NetMotorShield4_2 Pin=MotorShield4-2
+Added Pin To Net: NetName=NetMotorShield4_3 Pin=MotorShield4-3
+Added Pin To Net: NetName=PGND1 Pin=MotorShield4-9
+Added Pin To Net: NetName=PGND1 Pin=MotorShield4-10
+Added Pin To Net: NetName=NetMotorShield4_11 Pin=MotorShield4-11
+Added Pin To Net: NetName=NetMotorShield4_11 Pin=MotorShield4-12
+Added Pin To Net: NetName=NetMotorShield4_13 Pin=MotorShield4-13
+Added Pin To Net: NetName=NetMotorShield4_13 Pin=MotorShield4-14
+Added Pin To Net: NetName=VM Pin=MotorShield4-15
+Added Pin To Net: NetName=VM Pin=MotorShield4-16
+Added Member To Class: ClassName=Power_board_2 Member=Component MotorShield1 Pololu G2 18v17
+Added Member To Class: ClassName=Power_board_2 Member=Component MotorShield2 Pololu G2 18v17
+Added Member To Class: ClassName=Power_board_2 Member=Component MotorShield3 Pololu G2 18v17
+Added Member To Class: ClassName=Power_board_2 Member=Component MotorShield4 Pololu G2 18v17
+Added Room: Name=Power_board_1
+Added Room: Name=Power_board_2

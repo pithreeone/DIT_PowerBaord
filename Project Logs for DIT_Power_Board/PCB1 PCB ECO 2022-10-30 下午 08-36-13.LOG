@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetMotorShield1_2 Pin=P29-1
+Removed Pin From Net: NetName=NetMotorShield1_3 Pin=P29-2
+Removed Pin From Net: NetName=NetMotorShield2_2 Pin=P29-3
+Removed Pin From Net: NetName=NetMotorShield2_3 Pin=P29-4
+Removed Pin From Net: NetName=NetMotorShield3_2 Pin=P29-5
+Removed Pin From Net: NetName=NetMotorShield3_3 Pin=P29-6
+Removed Pin From Net: NetName=NetMotorShield4_2 Pin=P29-7
+Removed Pin From Net: NetName=NetMotorShield4_3 Pin=P29-8
+Added Pin To Net: NetName=NetMotorShield4_3 Pin=P29-1
+Added Pin To Net: NetName=NetMotorShield4_2 Pin=P29-2
+Added Pin To Net: NetName=NetMotorShield3_3 Pin=P29-3
+Added Pin To Net: NetName=NetMotorShield3_2 Pin=P29-4
+Added Pin To Net: NetName=NetMotorShield2_3 Pin=P29-5
+Added Pin To Net: NetName=NetMotorShield2_2 Pin=P29-6
+Added Pin To Net: NetName=NetMotorShield1_3 Pin=P29-7
+Added Pin To Net: NetName=NetMotorShield1_2 Pin=P29-8

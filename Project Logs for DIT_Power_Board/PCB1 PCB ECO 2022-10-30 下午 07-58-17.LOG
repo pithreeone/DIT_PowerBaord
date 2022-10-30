@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetMotorShield2_3 Pin=P29-2
+Removed Pin From Net: NetName=NetMotorShield1_3 Pin=P29-4
+Added Pin To Net: NetName=NetMotorShield1_3 Pin=P29-2
+Added Pin To Net: NetName=NetMotorShield2_3 Pin=P29-4
+Added Room: Name=Power_board_1
+Added Room: Name=Power_board_2
