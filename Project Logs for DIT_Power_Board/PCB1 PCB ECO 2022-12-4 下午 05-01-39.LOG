@@ -1,0 +1,10 @@
+Add Component: Footprint Not Found DIOAD1413W86L463D238
+Add Component: Footprint Not Found DIOAD1413W86L463D238
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=U4-2
+Added Pin To Net: NetName=NetD?_1 Pin=U4-3
+Added Net: Name=NetD?_1
+Add Net: Net with name "NetD?_1" already exists
+Add Class Member: Failed to add class member : Component D? 1N4004
+Add Class Member: Failed to add class member : Component D? 1N4004

@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=C31 Old Footprint=FP-C1608-080-IPC_A New Footprint=T491C
+Change Component Footprint: Designator=C35 Old Footprint=FP-C1608-080-IPC_A New Footprint=T491C
+Change Managed Component Library Link : Designator=C31 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CE2DE6E8-C583-49B4-BB0B-4495F71733F8 New ItemGUID= Old RevisionGUID=C42A8006-4A4B-4C91-9745-1BBF92C36759 New RevisionGUID=
+Change Managed Component Library Link : Designator=C35 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CE2DE6E8-C583-49B4-BB0B-4495F71733F8 New ItemGUID= Old RevisionGUID=C42A8006-4A4B-4C91-9745-1BBF92C36759 New RevisionGUID=
+Change component parameters: Designator = "C31" ("C31"); Footprint = "FP-C1608-080-IPC_A"; UniqueID = "\PDNUBQUE" ("\PDNUBQUE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "T491C106K016AT7280"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/t491c106k016at7280/kemet-corporation?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_T2005_T491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T491C106K016AT7280"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-T491C106K0167280"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/T491C106K016AT7280?qs=dl6palF0VAcTDrAmOIvJow%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "FP-C1608-080-IPC_A"; UniqueID = "\IMALPFCM" ("\IMALPFCM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "T491C106K016AT7280"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/t491c106k016at7280/kemet-corporation?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_T2005_T491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T491C106K016AT7280"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-T491C106K0167280"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/T491C106K016AT7280?qs=dl6palF0VAcTDrAmOIvJow%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"

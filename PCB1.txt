@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\Ben\Documents\GitHub\GitLocalRepo_AD\DIT_PowerBaord\PCB1.PcbDoc
-Date         : 2022/11/10
-Time         : ¤U¤È 11:47:44
+Date         : 2022/12/4
+Time         : ¤U¤È 08:10:58
 Time Elapsed : 00:00:00
 
 Routing Information
     Routing completion, 100.00%
-    Connections, 86
-    Connections routed, 86
+    Connections, 88
+    Connections routed, 88
     Connections remaining, 0
 count : 4

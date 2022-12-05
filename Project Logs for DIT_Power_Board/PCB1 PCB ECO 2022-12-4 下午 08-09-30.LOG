@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=C31 Old Footprint=T491C New Footprint=CAPPM7344X310N
+Change Component Footprint: Designator=C35 Old Footprint=T491C New Footprint=CAPPM7344X310N
+Change Component Comment : Designator=C31 Old Comment=10uF New Comment=100uF
+Change Component Comment : Designator=C35 Old Comment=10uF New Comment=100uF
+Change component parameters: Designator = "C31" ("C31"); Footprint = "T491C"; UniqueID = "\ZOWFVRPK" ("\ZOWFVRPK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TAJD107K016RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tajd107k016rnj/avx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAJD107K016RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-TAJD107K016R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/TAJD107K016RNJ?qs=srZBJ3srS4Aek4oWmPB2bw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "T491C"; UniqueID = "\JHTRYPCA" ("\JHTRYPCA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TAJD107K016RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tajd107k016rnj/avx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.avx.com/TAJ.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAJD107K016RNJ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-TAJD107K016R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/TAJD107K016RNJ?qs=srZBJ3srS4Aek4oWmPB2bw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
